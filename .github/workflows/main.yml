@@ -1,0 +1,10 @@
+            - name: LeetCode-collectinator
+  # You may pin to the exact commit or the version.
+  # uses: ME-ON1/Leetcode-SyncInAction@2525bced6e8be6c403bc983e5592b4957d0845c8
+  uses: ME-ON1/Leetcode-SyncInAction@1.1.1
+  with:
+    # leetcode cookie value to get your data value
+    cookieVal: 
+    # location of folder in repo where solution will be stored
+    solution_location: # optional, default is .
+          
